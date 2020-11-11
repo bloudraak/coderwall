@@ -31,7 +31,7 @@ source 'https://rubygems.org' do
   gem 'clockwork'
 
 # Authentication
-  gem 'omniauth', '~> 1.1.0'
+  gem 'omniauth', '~> 1.4.2'
   gem 'omniauth-facebook'
   gem 'omniauth-github'
   gem 'omniauth-linkedin', '~> 0.0.6'

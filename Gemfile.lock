@@ -404,9 +404,9 @@ GEM
     octokit (4.0.1)
       sawyer (~> 0.6.0, >= 0.5.3)
     oj (2.12.10)
-    omniauth (1.1.4)
-      hashie (>= 1.2, < 3)
-      rack
+    omniauth (1.4.2)
+      hashie (>= 1.2, < 4)
+      rack (>= 1.0, < 3)
     omniauth-facebook (1.6.0)
       omniauth-oauth2 (~> 1.1)
     omniauth-github (1.1.2)
@@ -755,7 +755,7 @@ DEPENDENCIES
   nokogiri!
   octokit!
   oj!
-  omniauth (~> 1.1.0)!
+  omniauth (~> 1.4.2)!
   omniauth-facebook!
   omniauth-github!
   omniauth-linkedin (~> 0.0.6)!
